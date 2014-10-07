@@ -1,5 +1,6 @@
 Seattle W19 Git for Everyone
 ----------------------------
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/cjordanball/sea-w19-git?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Demonstrate the following skills:
 
